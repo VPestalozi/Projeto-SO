@@ -17,7 +17,7 @@ Os projetos foram estruturados para ensinar como gerenciar fluxos de execução 
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1.  **Clone o repositório:**
     ```bash
