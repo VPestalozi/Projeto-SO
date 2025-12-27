@@ -1,15 +1,15 @@
-# 🧵 Projetos de Sistemas Operacionais: Concorrência e Threads
+# Projetos de Sistemas Operacionais: Concorrência e Threads
 
 Este repositório contém os projetos práticos desenvolvidos para a disciplina de **Sistemas Operacionais**. O objetivo principal foi compreender o funcionamento interno das threads, bem como os métodos essenciais para sua programação e sincronização.
 
-## 🎯 Objetivos de Aprendizado
+## Objetivos de Aprendizado
 
 Os projetos foram estruturados para ensinar como gerenciar fluxos de execução paralelos e como evitar conflitos de acesso a recursos, utilizando conceitos como:
 * **Threads:** Criação, execução e ciclo de vida.
 * **Sincronização:** Implementação de **Semáforos** e outros métodos de controle de concorrência.
 * **Comunicação entre Processos:** Lógica de exclusão mútua e coordenação de tarefas.
 
-## 🛠️ Tecnologias e Requisitos
+## Tecnologias e Requisitos
 
 * **Linguagem:** Todo o código foi desenvolvido em **Java**.
 * **Interface:** Os projetos utilizam o **terminal** (CLI) como interface de interação.
@@ -26,12 +26,12 @@ Os projetos foram estruturados para ensinar como gerenciar fluxos de execução 
 
 2.  **Compile os arquivos (exemplo):**
     ```bash
-    javac Projeto_1_-_C012.java
+    javac Projeto 1 - C012.java
     ```
 
 3.  **Execute o programa:**
     ```bash
-    java Projeto_1_-_C012
+    java Projeto 1 - C012
     ```
 
 ---
